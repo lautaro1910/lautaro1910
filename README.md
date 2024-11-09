@@ -15,6 +15,7 @@
 - 👯 Open to Collaborate on open-source projects.
 - 💥 Additionally, I love playing sports and reading :D.
 - Contact me: https://linktr.ee/lautarosoria
+- <a target="_blank" href="https://drive.google.com/file/d/1mYLoeu1A7f5ySXJgX11rFpJcn5TLjjLe/view?usp=sharing">My Curriculum Vitae</a>
 <br>
 
 ## My Skills Include
@@ -65,7 +66,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </span>
-
 
 ## Connect with me
 <a target="_blank" href="https://www.linkedin.com/in/lautaro-soria/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
