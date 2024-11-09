@@ -14,6 +14,7 @@
   - Spring
 - 👯 I’m looking to collaborate on open projects.
 - 💥 Additionally, I love playing sports and reading :D.
+- Contact me: https://linktr.ee/lautarosoria
 <br>
 
 ## My Skills Include
