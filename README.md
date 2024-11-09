@@ -14,8 +14,8 @@
   - Spring
 - 👯 Open to Collaborate on open-source projects.
 - 💥 Additionally, I love playing sports and reading :D.
-- Contact me: https://linktr.ee/lautarosoria
-- <a target="_blank" href="https://drive.google.com/file/d/1mYLoeu1A7f5ySXJgX11rFpJcn5TLjjLe/view?usp=sharing">My Curriculum Vitae</a>
+- 📡 Contact me: https://linktr.ee/lautarosoria
+- 📖 <a target="_blank" href="https://drive.google.com/file/d/1mYLoeu1A7f5ySXJgX11rFpJcn5TLjjLe/view?usp=sharing">My Curriculum Vitae</a>
 <br>
 
 ## My Skills Include
