@@ -5,14 +5,14 @@
 </p>
 
 ## About me
-- 🚀 I’m currently working on a project at RunaID, where I'm using Angular, NodeJS, MariaDB, and TypeScript.
+- 🚀 Currently, I'm working on a project at RunaID, where I'm using Angular, NodeJS, MariaDB, and TypeScript.
 - 👨‍🏫 I'm an Assistant Professor in the subjects "Programming 1" and "Problem Resolution and Algorithms" at UNSL.
-- 🔭 I'm in my final year studying Software Engineering. I'm creating my final project, it's a web app for my university that helps users find locations within the campus, including accessible routes for people with mobility difficulties.
-- 🌱 I’m currently learning:
+- 🔭 As a Software Engineering student in my final year, I’m building a campus navigation web app for my university. It includes accessible routes for individuals with mobility challenges.
+- 🌱 Learning:
   - Angular
   - NodeJS
   - Spring
-- 👯 I’m looking to collaborate on open projects.
+- 👯 Open to Collaborate on open-source projects.
 - 💥 Additionally, I love playing sports and reading :D.
 - Contact me: https://linktr.ee/lautarosoria
 <br>
