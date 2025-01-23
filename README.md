@@ -5,7 +5,7 @@
 </p>
 
 ## About me
-- 🚀 Currently, I'm working on a project at RunaID, where I'm using Angular, NodeJS, MariaDB, and TypeScript.
+- 🚀 I am an IT intern at Edesal S.A., a company focused on electric utility management. In this role, I work with various tools and programming languages such as Python, Java, PHP, JavaScript, as well as HTML, CSS, and Bootstrap. My responsibilities include data analysis, creating algorithms to automate tasks, and implementing improvements to the company website. Also, I have knowledge of the NodeJS and Angular frameworks.
 - 👨‍🏫 I'm an Assistant Professor in the subjects "Programming 1" and "Problem Resolution and Algorithms" at UNSL.
 - 🔭 As a Software Engineering student in my final year, I’m building a campus navigation web app for my university. It includes accessible routes for individuals with mobility challenges.
 - 🌱 Learning:
