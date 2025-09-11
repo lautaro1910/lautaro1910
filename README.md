@@ -15,7 +15,7 @@
 - 👯 Open to Collaborate on open-source projects.
 - 💥 Additionally, I love playing sports and reading :D.
 - 📡 Contact me: <a href="https://www.linkedin.com/in/lautaro-soria/">Linkedin</a>
-- 📖 <a target="_blank" href="https://drive.google.com/file/d/1Zb9AGftXx6LmO7rJ6vdhgDos0uQVQVGp/view?usp=sharing">My Curriculum Vitae</a>
+- 📖 Check my portfolio website! <a href="https://lautaro-soria.vercel.app/">click here</a>
 <br>
 
 ## My Skills Include
