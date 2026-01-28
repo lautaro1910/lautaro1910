@@ -1,7 +1,7 @@
 <h1 align="center"><b>Lautaro Soria</b></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=24&center=true&vCenter=true&width=700&height=80&lines=Backend+Engineer+%40+Baufest;AI+Agents+%26+MCP+Specialist;Assistant+Professor+%40+UNSL;Software+Engineer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=24&center=true&vCenter=true&width=700&height=80&lines=Backend+Engineer+%40+Baufest;AI+Agents+%26+MCP;Assistant+Professor+%40+UNSL;Software+Engineer"></a>
 </p>
 
 ## 🚀 Professional Overview
