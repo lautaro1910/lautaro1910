@@ -1,79 +1,31 @@
-<h1 align="center"><b>Hello! I'm Lauta </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Lautaro Soria</b></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Student,;Self-taught+Developer,;Assistant+University+Professor,;Backend-Developer,;Love+to+learn+new+stuff..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=24&center=true&vCenter=true&width=700&height=80&lines=Backend+Engineer+%40+Baufest;AI+Agents+%26+MCP+Specialist;Assistant+Professor+%40+UNSL;Software+Engineer"></a>
 </p>
 
-## About me
-- 🚀 I am Backend Developer in Baufest, a company focused on create software and provide services. In this role, I work with various tools and programming languages such as Java, SpringBoot, JUnit and other stuff.
-- 👨‍🏫 I'm an Assistant Professor in the subjects "Programming 1" and "Problem Resolution and Algorithms" at UNSL.
-- 🔭 As a Software Engineering student in my final year, I’m building a campus navigation web app for my university. It includes accessible routes for individuals with mobility challenges.
-- 🌱 Learning:
-  - Angular
-  - NodeJS
-  - Spring
-- 👯 Open to Collaborate on open-source projects.
-- 💥 Additionally, I love playing sports and reading :D.
-- 📡 Contact me: <a href="https://www.linkedin.com/in/lautaro-soria/">Linkedin</a>
-- 📖 Check my portfolio website! <a href="https://lautaro-soria.vercel.app/">click here</a>
-<br>
+## 🚀 Professional Overview
+- 🤖 **Backend Engineer @ Baufest**: Architecting **Model Context Protocol (MCP)** servers and integrating LLM frameworks to automate enterprise workflows. Also, Backend, REST Apis implementations and scalable solutions.
+- 🏫 **Academic Leadership**: Assistant Professor for *Programming I* and *Algorithms* at UNSL (2022–2025).
+- ♿ **Thesis - UniMaps**: Engineering a campus navigation system optimized for accessibility and route efficiency.
 
-## My Skills Include
+## 🛠 Tech Stack & Expertise
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend** | **Java (Spring Boot)**, Microservices, RESTful APIs, JUnit |
+| **AI & Emerging** | **Model Context Protocol (MCP)**, AI Agents, LLM Integration |
+| **Databases** | **PostgreSQL**, MySQL, SQL Stored Procedures |
+| **Frontend** | React, JavaScript, Angular, Bootstrap |
+| **Infrastructure** | Docker, Git, Maven, CI/CD, Linux (Ubuntu) |
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+## 🧪 Featured Project: UniMaps
+*Developed an interactive campus localization web app focused on accessibility. Integrated advanced route optimization to support mobility-challenged individuals.*
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</span>
+## 📊 Performance & Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150" />
+</p>
 
-<h4> Also </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</span>
-
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <!-- BootStrap -->
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"> <!-- Angular --> 
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <!-- NodeJS -->
-  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"> <!-- Apache Spark -->
-</span>
-
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">  
-</span>
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"> 
-</span>
-
-<h4> SO </h4>
-<span> 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</span>
-
-## Connect with me
-<a target="_blank" href="https://www.linkedin.com/in/lautaro-soria/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:dielauts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<br>
-<br>
-
-
-<!-- iconos: https://github.com/Ileriayo/markdown-badges --> 
-
-
+## 🔗 Connect & Links
+[Portfolio](https://lautaro-soria.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/lautaro-soria/) • [Email](mailto:dielauts@gmail.com)
