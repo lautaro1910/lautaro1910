@@ -26,6 +26,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lautaro1910&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lautaro1910&layout=compact&theme=tokyonight" height="150" />
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lautaro1910&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🔗 Connect & Links
 [Portfolio](https://lautaro-soria.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/lautaro-soria/) • [Email](mailto:dielauts@gmail.com)
