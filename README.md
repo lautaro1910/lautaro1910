@@ -23,8 +23,8 @@
 
 ## 📊 Performance & Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=lautaro1910&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautaro1910&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lautaro1910&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lautaro1910&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ## 🔗 Connect & Links
