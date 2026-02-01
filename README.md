@@ -25,7 +25,7 @@
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lautaro1910&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lautaro1910&layout=compact&theme=tokyonight" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=lautaro1910&theme=tokyonight" height="150" />
+<img src="https://streak-stats.demolab.com/?user=lautaro1910&theme=tokyonight" alt="GitHub Streak" height="150" />
 </p>
 
 ## 🔗 Connect & Links
