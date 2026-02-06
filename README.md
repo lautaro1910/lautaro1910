@@ -29,4 +29,4 @@
 </p>
 
 ## 🔗 Connect & Links
-[Portfolio](https://lautaro-soria.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/lautaro-soria/) • [Email](mailto:dielauts@gmail.com)
+[Portfolio](https://lautarosoria.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/lautaro-soria/) • [Email](mailto:dielauts@gmail.com)
