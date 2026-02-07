@@ -21,6 +21,9 @@
 ## 🧪 Featured Project: UniMaps
 *Developed an interactive campus localization web app focused on accessibility. Integrated advanced route optimization to support mobility-challenged individuals.*
 
+## 🧪 Featured Project: GuiaPuntana
+*I actively contribute to a open source app "Guia Puntana", that was created to connect people & services in a easier way.*
+
 ## 📊 Performance & Stats
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lautaro1910&show_icons=true&theme=tokyonight" height="150" />
